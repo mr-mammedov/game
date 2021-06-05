@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1620436846 source:c:\users\mammedov\desktop\c.programming\2guessing number\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<typeinfo>
+
+1622899049 source:c:\users\mammedov\desktop\cpp\2guessing number\main.cpp
+	<bits/stdc++.h>
+

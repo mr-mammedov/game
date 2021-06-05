@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1619375840 source:c:\users\mammedov\desktop\c.programming\enum\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1619448433 source:c:\users\mammedov\desktop\c.programming\guessing number\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
